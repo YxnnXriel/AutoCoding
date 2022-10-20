@@ -67,7 +67,7 @@ on auras une arborescence de dossier comme :
 # Compatibilité / télécharger
 - [Windows 64bits](AutoCodingSetup1.0.exe)
 
-    > compatibiliter linux et macos bientôt
+    > Compatibilité linux et MacOs bientôt
 
 <!-- - [Linux (Ubuntu 22.04, Debian)](C:/Users/yanna/hello/C/newAc/nac.exe)
 - [MacOs](C:/Users/yanna/hello/C/newAc/nac.exe)  -->
