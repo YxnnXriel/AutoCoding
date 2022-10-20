@@ -7,7 +7,7 @@
 
 <p align="left" width="100%">
     <img width="7%" src="shift.ico">
-    by shift inc   
+    by shift inc.   
 </p>  
 
 # Utilisation
